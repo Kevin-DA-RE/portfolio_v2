@@ -1,9 +1,9 @@
 <script setup>
-import Home from './views/Home.vue';
+import DarkAnimatedBackground from '@/components/Background.vue'
 </script>
 
 <template>
-  <Home />
+  <main className="min-h-screen">
+    <DarkAnimatedBackground />
+  </main>
 </template>
-
-<style scoped></style>

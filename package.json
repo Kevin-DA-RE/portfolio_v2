@@ -14,9 +14,12 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
+    "@vueuse/motion": "^3.0.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "framer-motion": "^12.23.12",
     "lucide-vue-next": "^0.541.0",
+    "motion": "^12.23.12",
     "reka-ui": "^2.4.1",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.12",
