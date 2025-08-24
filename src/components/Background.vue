@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref, reactive, onMounted, onUnmounted } from 'vue'
-import { useMotionTransitions } from '@vueuse/motion'
 
 interface FloatingElement {
   id: number
